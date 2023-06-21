@@ -112,7 +112,6 @@ export const Content = styled.div`
       line-height: 21px;
       margin-bottom: 40px;
 
-
       color: ${({ theme }) => theme.COLORS.TEXT_400};
     }
   };
